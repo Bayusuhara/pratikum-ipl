@@ -4,4 +4,3 @@ def luas_segitiga():
     luas = a * t / 2
     print("Luas segitiga adalah:", luas)
 
-luas_segitiga()  
